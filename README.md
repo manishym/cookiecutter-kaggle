@@ -18,7 +18,7 @@ Based on the [template by driven-data](https://github.com/drivendata/cookiecutte
 ------------
 To initialize a new project after your system fulfills the requirements run:
 
-    cookiecutter https://github.com/uberwach/cookiecutter-kaggle
+    cookiecutter https://github.com/manishym/cookiecutter-kaggle
 
 You can build the Docker image (based on the Kaggle Python3 Docker image) via:
 
